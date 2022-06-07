@@ -7,9 +7,9 @@ This is the numerical code for the article: \
 with pip/conda install
 
 ```
-pytorch
-gym
-numpy
+pytorch 1.6
+gym 0.18
+numpy 1.18
 ```
 
 ## Run Code
