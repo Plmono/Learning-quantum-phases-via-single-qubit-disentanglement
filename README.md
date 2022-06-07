@@ -8,7 +8,6 @@ with pip/conda install
 
 ```
 pytorch
-matplotlib
 gym
 numpy
 ```
